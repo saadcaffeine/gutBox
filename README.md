@@ -6,8 +6,13 @@ Proposed initial features:
 - Open and mod/expandable
   - Grove
 - WiFi IoT
-  - PiZero / Particle Photon
+  - PiZero 
+  - Particle Photon
 
 sensors
-- DHT11 sensor: Humidity and Temperature
+- Temperature
+  - https://docs.particle.io/datasheets/photon-shields/#temperature-sensor-sealed-1-
+  - DHT11
 - weight / pressure?
+  - piezo buzzer 
+  - light sensor / reed + mechanical tyre pressure indicator
